@@ -6,6 +6,7 @@ package com.Brendon;
         public void roar() {
 
             System.out.println("GRRRR!!!!");
+            System.out.println("Funsies!!");
         }
 
     }
